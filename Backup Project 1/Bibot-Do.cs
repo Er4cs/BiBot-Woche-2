@@ -10,7 +10,7 @@ using Microsoft.SPOT.Touch;
 
 using Gadgeteer.Networking;
 using GT = Gadgeteer;
-using GTM = Gadgeteer.Modules;
+using GTM = Gadgeteer.Modules; lolololololololol
 using Gadgeteer.Modules.GHIElectronics;
 using Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH;
 
