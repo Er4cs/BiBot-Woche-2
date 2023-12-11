@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.VolkswagenBildungsinstitutGmbH.PollSwitch</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.PollSwitch">
+            <summary>
+            A PollSwitch module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.PollSwitch.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="M:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.PollSwitch.OnPollSwitchChanged(PollSwitchChangedEventArgs)">
+            <summary>
+            OnPollSwitchChanged
+            </summary>
+            <param name="e">e</param>
+        </member>
+        <member name="E:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.PollSwitch.PollSwitchChanged">
+            <summary>
+            PollSwitchChangedEventHandler
+            </summary>
+        </member>
+        <member name="T:PollSwitchChangedEventHandler">
+            <summary>
+            PollSwitchChangedEventHandler
+            </summary>
+            <param name="sender">sender</param>
+            <param name="e">e</param>
+        </member>
+        <member name="T:PollSwitchChangedEventArgs">
+            <summary>
+            PollSwitchChangedEventArgs
+            </summary>
+        </member>
+        <member name="M:PollSwitchChangedEventArgs.#ctor(System.Byte)">
+            <summary>
+            PollSwitchChangedEventArgs
+            </summary>
+            <param name="pollSwitch">pollSwitch</param>
+        </member>
+        <member name="P:PollSwitchChangedEventArgs.PollSwitch">
+            <summary>
+            PollSwitch
+            </summary>
+        </member>
+    </members>
+</doc>

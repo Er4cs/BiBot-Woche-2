@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>GTM.VolkswagenBildungsinstitutGmbH.Reflector</name>
+    </assembly>
+    <members>
+        <member name="T:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.Reflector">
+            <summary>
+            A Reflector module for Microsoft .NET Gadgeteer
+            </summary>
+        </member>
+        <member name="M:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.Reflector.#ctor(System.Int32)">
+            <summary></summary>
+            <param name="socketNumber">The socket that this module is plugged in to.</param>
+        </member>
+        <member name="P:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.Reflector.LeftReflectorVoltage">
+            <summary>
+            Gets the voltage of the sensors left reflector (from top in driving direction). The voltage is rising when the underground becames darker.
+            </summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.Reflector.RightReflectorVoltage">
+            <summary>
+            Gets the voltage of the sensors right reflector (from top in driving direction). The voltage is rising when the underground becames darker.
+            </summary>
+        </member>
+        <member name="P:Gadgeteer.Modules.VolkswagenBildungsinstitutGmbH.Reflector.BatteryVoltage">
+            <summary>
+            Gets the voltage from the UC Battery 4xAA Module.
+            </summary>
+        </member>
+    </members>
+</doc>

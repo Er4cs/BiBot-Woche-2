@@ -1,0 +1,174 @@
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\le\Backup Project.exe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\be\Backup Project.exe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\le\Backup Project.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\be\Backup Project.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Backup Project.exe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Backup Project.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\le\Backup Project.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\le\Backup Project.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\be\Backup Project.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\be\Backup Project.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\Gadgeteer.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.DistanceUS3.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MotorControllerL298.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHI.Usb.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\Gadgeteer.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.DistanceUS3.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MotorControllerL298.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHI.Usb.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.DistanceUS3.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MotorControllerL298.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.DistanceUS3.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MotorControllerL298.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.DistanceUS3.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHI.Hardware.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHI.Usb.dll
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.DistanceUS3.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHI.Hardware.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\bin\Debug\GHI.Usb.xml
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup_Project.Resources.resources
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup Project.csproj.GenerateResource.Cache
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup_Project.Resources.tinyresources
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\TinyResGen.cache
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\be\Backup Project.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\be\Backup Project.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\le\Backup Project.pe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\le\Backup Project.pdbx
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup Project.exe
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup Project.pdb
+C:\Users\22-05\Documents\Visual Studio 2013\Projects\Backup Project\Backup Project\obj\Debug\Backup Project.csprojResolveAssemblyReference.cache
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\le\Backup Project.exe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\be\Backup Project.exe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\le\Backup Project.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\be\Backup Project.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Backup Project.exe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Backup Project.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\le\Backup Project.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\le\Backup Project.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\be\Backup Project.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\be\Backup Project.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\Gadgeteer.DaisyLink.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\Gadgeteer.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.DistanceUS3.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MotorControllerL298.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHI.Usb.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\Gadgeteer.DaisyLink.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\Gadgeteer.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.DistanceUS3.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MotorControllerL298.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHI.Usb.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\Gadgeteer.DaisyLink.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.DistanceUS3.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MotorControllerL298.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\Gadgeteer.DaisyLink.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.DistanceUS3.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MotorControllerL298.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.GHIElectronics.MulticolorLED.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.DaisyLink.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.DistanceUS3.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.MulticolorLED.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHI.Hardware.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHI.Usb.dll
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.DaisyLink.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\Gadgeteer.DaisyLink.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.DistanceUS3.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.MotorControllerL298.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.GHIElectronics.MulticolorLED.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.PollSwitch.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.pdb
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GTM.VolkswagenBildungsinstitutGmbH.Reflector.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHI.Hardware.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\bin\Debug\GHI.Usb.xml
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup Project.csprojResolveAssemblyReference.cache
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup_Project.Resources.resources
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup Project.csproj.GenerateResource.Cache
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup_Project.Resources.tinyresources
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\TinyResGen.cache
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\be\Backup Project.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\be\Backup Project.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\le\Backup Project.pe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\le\Backup Project.pdbx
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup Project.exe
+C:\Users\22-04\Documents\Visual Studio 2013\Projects\Donnerstag-Nachmittag\Backup Project\obj\Debug\Backup Project.pdb
